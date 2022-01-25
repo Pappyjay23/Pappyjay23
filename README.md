@@ -17,6 +17,23 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats)
 
 <!--START_SECTION:waka-->
+ name: Waka Readme
+
+ on:
+   schedule:
+     # Runs at 12am UTC
+     - cron: "0 0 * * *"
+
+ jobs:
+   update-readme:
+     name: Update Readme with Metrics
+     runs-on: ubuntu-latest
+     steps:
+       - uses: athul/waka-readme@master
+         with:
+           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+           REPOSITORY: <username/username> # optional, By default, it will automatically use the repository who's executing the workflow.
 <!--END_SECTION:waka-->
 
 
