@@ -16,6 +16,9 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 
 <!---
