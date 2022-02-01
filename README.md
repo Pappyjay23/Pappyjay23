@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning TypeScript and Redux
 - 💞️ I’m looking to collaborate on Web Development Projects
 - Ask me anything
-- 📫 How to reach me ... Portfolio {https://pjpportfolio.netlify.app}
+- 📫 How to reach me ... Portfolio -  https://pjpportfolio.netlify.app
 
 *Hobbies
 - Playing the guitar
