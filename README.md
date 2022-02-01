@@ -12,9 +12,9 @@
 - Playing the piano
 - Playing video games
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats)
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats) -->
 
 
 
