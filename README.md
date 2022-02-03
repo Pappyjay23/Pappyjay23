@@ -1,10 +1,8 @@
-- You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hi, I’m @Pappyjay23
+- You there? <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> Hi, I’m Peace
 - I'm a Software Developer with rock-solid experience in building interactive applications with JavaScript, React.js, Sass and other tools in the JavaScript ecosystem in record time. I also work part time as a Graphic Designer.
-
-  *About Me
-- 🌱 I’m currently learning TypeScript and Redux
+- 🌱 I’m currently learning TypeScript and Redux.
 - 💞️ I’m looking to collaborate on Web Development Projects
-- Ask me anything
+- Ask me anything. It'll help me learn more.
 - 📫 How to reach me ... Portfolio -  https://pjpportfolio.netlify.app
 
 *Hobbies
