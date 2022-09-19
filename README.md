@@ -14,6 +14,8 @@
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pappyjay23)](https://github.com/pappyjay23/github-readme-stats) -->
 
+<a href="https://wakatime.com/@ba99228c-767d-4be7-ac76-2490e4ed20e8"><img src="https://wakatime.com/badge/user/ba99228c-767d-4be7-ac76-2490e4ed20e8.svg" alt="Total time coded since Jan 25 2022" /></a>
+
 
 
 
