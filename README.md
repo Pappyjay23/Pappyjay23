@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pjinadu02@gmail.com**
 
-- 📄 Know about my experiences [(Resume)](https://docs.google.com/document/d/1cbjT4orK3yms6LUFx7ZyZnAzPjnyndTrNIw1cBjzqt8)
+- 📄 Know about my experiences [**Resume**](https://docs.google.com/document/d/1cbjT4orK3yms6LUFx7ZyZnAzPjnyndTrNIw1cBjzqt8)
 
 - ⚡ Fun fact **I play a couple of instruments. I'm a fan of comics, animations as well as video games.**
 
