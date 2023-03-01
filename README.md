@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peace (Also called PJP, PJ)</h1>
 <h3 align="center">A passionate frontend developer with rock-solid experience in building interactive applications</h3>
 
-- 🌱 I’m currently learning **Redux, Vue.js**
+- 🌱 I’m currently learning **Vue.js**
 
 - 👨‍💻 All of my projects are available at [https://pjpportfolio.netlify.app](https://pjpportfolio.netlify.app)
 
