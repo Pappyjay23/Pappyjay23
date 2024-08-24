@@ -3,7 +3,7 @@
 
 - 🌱 I’m continuously learning
 
-- 👨‍💻 Check out some of my projects at [https://pjpportfolio.netlify.app](https://pjpportfolio.netlify.app)
+- 👨‍💻 Check out some of my projects at [**My Portfolio**](https://pjpportfolio.netlify.app)
 
 - 💬 Ask me about **Front End Tech. It'll also help me learn more.**
 
