@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Peace (Also called PJP, PJ)</h1>
 <h3 align="center">A passionate frontend developer with rock-solid experience in building interactive applications</h3>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m continuously learning
 
 - 👨‍💻 All of my projects are available at [https://pjpportfolio.netlify.app](https://pjpportfolio.netlify.app)
 
-- 💬 Ask me about **react, firebase. It'll also help me learn more.**
+- 💬 Ask me about **Front End Tech. It'll also help me learn more.**
 
 - 📫 How to reach me **pjinadu02@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://docs.google.com/document/d/1cbjT4orK3yms6LUFx7ZyZnAzPjnyndTrNIw1cBjzqt8)
+- 📄 Know about my experience here - [**Resume**](https://docs.google.com/document/d/1cbjT4orK3yms6LUFx7ZyZnAzPjnyndTrNIw1cBjzqt8)
 
 - ⚡ Fun fact **I play a couple of instruments. I'm a fan of comics, animations as well as video games.**
 
