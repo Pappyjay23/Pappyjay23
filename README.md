@@ -15,7 +15,7 @@ I turn product designs into reliable, production-ready user interfaces.
 ---
 
 ### 📄 Resume
-📌 <a href="https://pappyjay23.github.io/Pappyjay23/Peace_Jinadu-Paul_Resume.pdf" target="_blank">View Resume (PDF)</a>
+> 📌 **<a href="https://pappyjay23.github.io/Pappyjay23/Peace_Jinadu-Paul_Resume.pdf" target="_blank">Click here to View / Download my Resume (PDF)</a>**
 
 ---
 
@@ -27,7 +27,7 @@ I’m comfortable working with modern frontend stacks and collaborating with des
 ---
 
 ### 🚀 Selected Projects
-🔗 **Portfolio:** <a href="https://pjpportfolio.netlify.app" target="_blank">pjpportfolio.netlify.app</a>
+> 🔗 **[View Portfolio & Interactive Live Demos](https://pjpportfolio.netlify.app)**
 
 Here you’ll find production-ready projects demonstrating:
 - Component-driven architecture
