@@ -27,7 +27,7 @@ I’m comfortable working with modern frontend stacks and collaborating with des
 ---
 
 ### 🚀 Selected Projects
-> 🔗 **[View Portfolio & Interactive Live Demos](https://pjpportfolio.netlify.app)**
+> 🔗 **[View Portfolio & Interactive Live Demos](https://peacejp.dev)**
 
 Here you’ll find production-ready projects demonstrating:
 - Component-driven architecture
