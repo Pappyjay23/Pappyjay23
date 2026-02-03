@@ -15,7 +15,7 @@ I turn product designs into reliable, production-ready user interfaces.
 ---
 
 ### 📄 Resume
-> 📌 **<a href="https://pappyjay23.github.io/Pappyjay23/Peace_Jinadu-Paul_Resume.pdf" target="_blank">Click here to View / Download my Resume (PDF)</a>**
+> 📌 **<a href="https://pappyjay23.github.io/Pappyjay23/Peace_Jinadu-Paul_Resume.pdf" target="_blank">Click here to View / Download my Resume (PDF)</a>** 
 
 ---
 
