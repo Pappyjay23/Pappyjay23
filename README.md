@@ -1,7 +1,7 @@
 <h1 align="center">Peace Jinadu-Paul</h1>
 
 <h3 align="center">
-Software Engineer (Frontend) — Building production-ready web applications with React, TypeScript, and Node.js
+Software Engineer — Building production-ready web applications with React, TypeScript, and Node.js
 </h3>
 
 <p align="center">
