@@ -80,7 +80,7 @@ Here you'll find production-ready projects demonstrating:
 <a href="https://linkedin.com/in/pappyjay" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://twitter.com/_pappy_jay_" target="_blank">
+<a href="https://twitter.com/simply_pjp" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 </p>
